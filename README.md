@@ -17,6 +17,6 @@
 <img align="left" alt="Material UI" width="27px" src="https://img.icons8.com/color/2x/material-ui.png" />
 
 <br /> <br />
-#### Profile Visits 👀 
+#### Profile Views 👀 
 
-![Visitor Count](https://profile-counter.glitch.me/olasunkanmi1/count.svg)
+![visitors](https://komarev.com/ghpvc/?username=olasunkanmi1)
