@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Olasunkanmi 
 
-Welcome to my Page. 
-
+![download](https://user-images.githubusercontent.com/80685454/143338355-59ef3c9f-c9c0-41de-9eac-57ff426131eb.jpg)
+ 
 #### You can get in touch with me via:
 <a href="https://www.linkedin.com/in/aqo" target="_blank" rel="nofollow"><img align="left" alt="Linkedin" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /></a>
 <a href="https://wa.me/2349098419054" target="_blank" rel="nofollow"><img align="left" alt="Whatsapp" width="30px" src="https://www.freepnglogos.com/uploads/whatsapp-logo-png-hd-2.png" /></a>
