@@ -7,7 +7,7 @@
 <a href="https://wa.me/2349098419054" target="_blank" rel="nofollow"><img align="left" alt="Whatsapp" width="40px" src="https://www.freepnglogos.com/uploads/whatsapp-logo-png-hd-2.png" /></a>
 <a href="https://www.twitter.com/ola_szuko" target="_blank" rel="nofollow"><img align="left" alt="Twitter" width="40px" src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png" /></a>
 <br /> <br />
-#### Languages,Libraries and Frameworks:
+#### Languages, Libraries and Frameworks:
 <img align="left" alt="HTML" width="27px" src="https://cdn-icons-png.flaticon.com/512/174/174854.png" />
 <img align="left" alt="CSS" width="27px" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" />
 <img align="left" alt="JavaScript" width="27px" src="https://www.freepnglogos.com/uploads/javascript-png/js-logo-png-5.png" />
