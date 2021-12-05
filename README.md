@@ -16,7 +16,7 @@
 <img align="left" alt="Next" width="27px" height="27px" src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" />
 <img align="left" alt="Bootstrap" width="27px" height="27px" src="https://cdn-icons-png.flaticon.com/128/5968/5968672.png" />
 <img align="left" alt="SCSS" width="27px" height="27px" src="https://cdn-icons-png.flaticon.com/128/919/919831.png" />
-<img align="left" alt="Material UI" width="27px" height="27px" src="https://img.icons8.com/color/2x/material-ui.png" />
+<img align="left" alt="Material-UI" width="27px" height="27px" src="https://img.icons8.com/color/2x/material-ui.png" />
 </div>
 
 <br /> <br /> <br /> 
