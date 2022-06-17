@@ -1,12 +1,14 @@
-## <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="50px" height="50px" /> <b>Hi there, welcome to my profile</b>
+<img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="70px" height="70px" /> 
+
+## Hi there, welcome to my profile
 
 <p aligh="left">
   I'm <b>Olasunkanmi Abdulsalam</b>, a <b>Frontend Developer</b> based in <b>Lagos, Nigeria</b> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_Nigeria.svg" width="20px"/>.
 
- ✒️ &nbsp; I'm passionate about continuous learning as well as gaining real-world experience so as to accelerate my software development career. \
- ✒️ &nbsp; I'm a quick learner who is capable of performing tasks at hand with little or no supervision.\
- ✒️ &nbsp; I'm also a highly motivated individual who feel confident that my skills set and dedication will enable me to become a valuable addition to your project or organization.
+* I'm passionate about continuous learning as well as gaining real-world experience so as to accelerate my software development career.
+* I'm a quick learner who is capable of performing tasks at hand with little or no supervision.
+* I'm also a highly motivated individual who feel confident that my skills set and dedication will enable me to become a valuable addition to your project or organization.
 </p>
 <hr />
 
@@ -59,4 +61,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olasunkanmi1&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
  <br />
 #### :eyes: Profile Views
-![visitors](https://komarev.com/ghpvc/?username=olasunkanmi1)
+![visitors](https://komarev.com/ghpvc/?username=olasunkanmi1&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
