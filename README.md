@@ -1,4 +1,4 @@
-<img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="70px" height="70px" /> 
+<img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" height="70px" /> 
 
 ## Hi there, welcome to my profile
 
