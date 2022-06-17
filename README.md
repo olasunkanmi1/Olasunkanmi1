@@ -1,122 +1,62 @@
-### Hi there 👋, I'm Olasunkanmi 
+## <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="50px" height="50px" /> <b>Hi there, welcome to my profile</b>
 
-![download](https://user-images.githubusercontent.com/80685454/143338355-59ef3c9f-c9c0-41de-9eac-57ff426131eb.jpg)
+<p aligh="left">
+  I'm <b>Olasunkanmi Abdulsalam</b>, a <b>Frontend Developer</b> based in <b>Lagos, Nigeria</b> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_Nigeria.svg" width="20px"/>.
+
+ ✒️ &nbsp; I'm passionate about continuous learning as well as gaining real-world experience so as to accelerate my software development career. \
+ ✒️ &nbsp; I'm a quick learner who is capable of performing tasks at hand with little or no supervision.\
+ ✒️ &nbsp; I'm also a highly motivated individual who feel confident that my skills set and dedication will enable me to become a valuable addition to your project or organization.
+</p>
+<hr />
+
+#### :man_technologist: Languages, Tools, Libraries and Frameworks I use:
+<p>
+ <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+ <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+ <img alt="JS" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+ <img alt="TS" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+ <img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+ <img alt="next-js" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+ <img alt="bootsrtrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+ <img alt="sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+ <img alt="tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+ <img alt="material-ui" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
+ <img alt="chakra-ui" src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white" />
+ <img alt="redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+ <img alt="vs-code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+ <img alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+ <img alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+ <img alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+ <img alt="yarn" src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" />
+ <img alt="styled-components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
+ <img alt="jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
+ <img alt="firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
+ <img alt="netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+ <img alt="heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
+ <img alt="many-more" src="https://img.shields.io/badge/-STILL%20LEARNING%20MORE...-midnightblue?style=for-the-badge" />
+</p>
+<hr />
  
-#### You can get in touch with me via:
-<a href="https://www.linkedin.com/in/aqo" target="_blank" rel="nofollow"><img align="left" alt="Linkedin" width="40px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /></a>
-<a href="https://wa.me/2349098419054" target="_blank" rel="nofollow"><img align="left" alt="Whatsapp" width="40px" src="https://www.freepnglogos.com/uploads/whatsapp-logo-png-hd-2.png" /></a>
-<a href="https://www.twitter.com/OlasunkanmiDev" target="_blank" rel="nofollow"><img align="left" alt="Twitter" width="40px" src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png" /></a>
-<br /> <br />
-#### Languages, Tools, Libraries and Frameworks:
-<table align="left">
-  <tr>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>JavaScript
-    </td>
-   <td align="center" width="96">
-      <a href="#">
-        <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="48" height="48" alt="React" />
-      </a>
-      <br>React JS
-    </td>
-   <td align="center" width="96"> 
-      <a href="#" >
-        <img src="https://raw.githubusercontent.com/samfromaway/samfromaway/master/.github/images/nextjs.png" width="48" height="48" alt="Next JS" />
-      </a>
-      <br>Next JS
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
-    </td>
+#### :compass: You can get in touch with me via:
+<a href="mailto:olasunkanmiaq@gmail.com" target="_blank" rel="nofollow">
+ <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/aqo" target="_blank" rel="nofollow">
+ <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://wa.me/2349098419054" target="_blank" rel="nofollow">
+ <img alt="Linkedin" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+<a href="https://www.twitter.com/OlasunkanmiDev" target="_blank" rel="nofollow">
+ <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+<hr />
 
-  </tr>
-  
-  <tr>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://4.bp.blogspot.com/-rtNRVM3aIvI/XJX_U07Z-II/AAAAAAAAJXY/YpdOo490FTgdKOxM4qDG-2-EzcNFAWkKACK4BGAYYCw/s1600/logo%2Bfirebase%2Bicon.png" width="48" height="48" alt="Firebase" />
-      </a>
-      <br>Firebase
-    <td align="center" width="96">
-      <a href="#" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
-      </a>
-      <br>Git
-    </td>
-   <td align="center" width="96">
-      <a href="#">
-        <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="48" height="48" alt="Material UI" />
-      </a>
-      <br>Material ui
-    </td>
-     <td align="center" width="96"> 
-      <a href="#" >
-        <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="48" height="48" alt="Redux" />
-      </a>
-      <br>Redux
-    </td>
-   </td>
-     <td align="center" width="96"> 
-      <a href="#" >
-        <img src="https://cdn-icons-png.flaticon.com/128/919/919831.png" width="48" height="48" alt="Redux" />
-      </a>
-      <br>Sass
-    </td>
-  </tr>
-   <tr>
-<!--     <td align="center" width="96">
-      <a href="#">
-        <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.cb8046c163f77190406dfbf4dec89848.svg" width="48" height="48" alt="TailWind" />
-      </a>
-      <br>TailWind
-    </td> -->
-<!--     <td align="center" width="96">
-      <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="45" height="45" alt="Figma" />
-      </a>
-      <br>Figma
-    </td> -->
-    <!--     <td align="center" width="96">
-      <a href="#suhailkakar-tech">
-        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="48" height="48" alt="Node JS" />
-      </a>
-      <br>Node JS
-    </td>
-     <td align="center" width="96"> 
-      <a href="#" >
-        <img src="https://i.ibb.co/QXHcMvM/58481021cef1014c0b5e494b.png" width="48" height="48" alt="Mongo DB" />
-      </a>
-      <br>MongoDB
-    </td> -->
-      <!--     <td align="center" width="96">
-      <a href="#suhailkakar-tech" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" width="48" height="48" alt="GraphQL" />
-      </a>
-      <br>GraphQL
-    </td> -->   
-  </tr>
-    
-</table>
-
-<br /> 
-<br /> 
-<br /> 
-
-
+#### :chart_with_upwards_trend: Github stats:
+![My GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=olasunkanmi1&hide_border=true&theme=black-ice&background=3D3D3D&stroke=00E6FE)
+<br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olasunkanmi1&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
  <br />
-#### Profile Views 👀 
-
+#### :eyes: Profile Views
 ![visitors](https://komarev.com/ghpvc/?username=olasunkanmi1)
