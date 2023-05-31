@@ -3,12 +3,10 @@
 ## Hi there, welcome to my profile
 
 <p aligh="left">
-  I'm <b>Olasunkanmi Abdulsalam</b>, a <b>Frontend Developer</b> based in <b>Lagos, Nigeria</b> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_Nigeria.svg" width="20px"/>.
+  I'm <b>Olasunkanmi Abdulsalam</b>, a <b>Frontend Developer</b>.
 
-* I'm passionate about continuous learning as well as gaining real-world experience so as to accelerate my software development career.
-* I'm a quick learner who is capable of performing tasks at hand with little or no supervision.
-* I'm also a highly motivated individual who feel confident that my skills set and dedication will enable me to become a valuable addition to your project or organization.
+* I'm an experienced frontend developer who is proficient in the use of React, Next.js, JavaScript, Typescript, and other various frontend libraries for developing scalable and responsive web applications. I'm also knowledgeable in MongoDB, Express, and Node.js for backend development. I collaborates effectively with cross-functional teams and I'm passionate about learning new technologies and staying current with industry trends. I've got a successful track record in delivering noteworthy projects that are well-received by clients and team members.
+* Additionally, as a highly motivated individual, I feel confident that my skill set and dedication will enable me to become an asset to your organization or project.
 </p>
 <hr />
 
@@ -28,20 +26,21 @@
  <img alt="tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
  <img alt="material-ui" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
  <img alt="chakra-ui" src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white" />
+  <img alt="styled-components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
  <img alt="redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+  <img alt="recoil" src="https://img.shields.io/badge/Recoil-593D88?style=for-the-badge&logo=recoil&logoColor=white" />
 
  <img alt="vs-code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
  <img alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
  <img alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
  <img alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
  <img alt="yarn" src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" />
- <img alt="styled-components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
  <img alt="jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
  <img alt="firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
  <img alt="netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
  <img alt="heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
  <img alt="vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
- <img alt="many-more" src="https://img.shields.io/badge/-STILL%20LEARNING%20MORE...-midnightblue?style=for-the-badge" />
+ <img alt="many-more" src="https://img.shields.io/badge/-AND%20MORE...-midnightblue?style=for-the-badge" />
 </p>
 <hr />
  
@@ -54,9 +53,6 @@
 </a>
 <a href="https://wa.me/2349098419054" target="_blank" rel="nofollow">
  <img alt="Linkedin" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
-<a href="https://www.twitter.com/OlasunkanmiDev" target="_blank" rel="nofollow">
- <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 <hr />
 
